@@ -1,3 +1,3 @@
-dependency:
-  name: python3-getdevinfo
-  prime: https://github.com/hamishmb/getdevinfo
+prime: https://github.com/hamishmb
+
+ppa: https://launchpad.net/~hamishmb/+archive/ubuntu/myppa
