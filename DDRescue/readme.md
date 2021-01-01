@@ -3,3 +3,7 @@
 [GUI](https://www.hamishmb.com/html/downloads.php?program_name=ddrescue-gui)
 
 [Guide - Ubuntu DataRecovery](https://help.ubuntu.com/community/DataRecovery)
+
+# Pkg
+[ppa: stable](https://launchpad.net/~hamishmb/+archive/ubuntu/myppa)  
+[ppa: testing](https://launchpad.net/~hamishmb/+archive/ubuntu/unstabletesting)
