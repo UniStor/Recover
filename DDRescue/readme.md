@@ -3,6 +3,8 @@
 [GUI](https://www.hamishmb.com/html/downloads.php?program_name=ddrescue-gui)
 
 # Guide
+[by: Datarecovery.com](https://datarecovery.com/rd/how-to-clone-hard-disks-with-ddrescue/)
+
 [Ubuntu DataRecovery](https://help.ubuntu.com/community/DataRecovery)
 
 [GNU ddrescue – The Best Damaged Drive Rescue - linux.com](https://www.linux.com/topic/desktop/gnu-ddrescue-best-damaged-drive-rescue/)
