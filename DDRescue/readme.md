@@ -2,7 +2,10 @@
 
 [GUI](https://www.hamishmb.com/html/downloads.php?program_name=ddrescue-gui)
 
-[Guide - Ubuntu DataRecovery](https://help.ubuntu.com/community/DataRecovery)
+# Guide
+[Ubuntu DataRecovery](https://help.ubuntu.com/community/DataRecovery)
+
+[GNU ddrescue – The Best Damaged Drive Rescue - linux.com](https://www.linux.com/topic/desktop/gnu-ddrescue-best-damaged-drive-rescue/)
 
 # Pkg
 [ppa: stable](https://launchpad.net/~hamishmb/+archive/ubuntu/myppa)  
