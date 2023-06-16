@@ -12,3 +12,7 @@
 # Pkg
 [ppa: stable](https://launchpad.net/~hamishmb/+archive/ubuntu/myppa)  
 [ppa: testing](https://launchpad.net/~hamishmb/+archive/ubuntu/unstabletesting)
+
+
+# Answer
+https://superuser.com/questions/583762/how-to-tell-rsync-to-skip-files-on-a-damaged-hard-drive-block-instead-of-being
